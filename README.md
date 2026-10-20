@@ -1,5 +1,7 @@
 # Hi there, I'm Daphne Lai 👋
 
+<img src="./profile-pic.jpeg" width="150" align="right" alt="Daphne Lai">
+
 ### 👩‍💻 About Me
 - 🔭 I’m currently learning **GitHub & Web Development**
 - 🌱 I’m focusing on building my core coding skills and version control workflow
