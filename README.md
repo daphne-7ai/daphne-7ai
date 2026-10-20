@@ -1,6 +1,6 @@
 # Hi there, I'm Daphne Lai 👋
 
-<img src="./profile-pic.jpeg" width="150" align="right" alt="Daphne Lai">
+<img width="820" height="1080" alt="Profile Pic" src="https://github.com/user-attachments/assets/5f037fe0-b748-4612-807a-5e4805c213a9" />
 
 ### 👩‍💻 About Me
 - 🔭 I’m currently learning **GitHub & Web Development**
